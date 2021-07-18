@@ -4,3 +4,4 @@ Author: Its me
 2.chat
 3.last seen
 4.Attachments
+5.Hiding last seen
