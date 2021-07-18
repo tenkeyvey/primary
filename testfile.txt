@@ -7,3 +7,4 @@ Author: Its me
 5.Hiding last seen
 6. Add audio 
 7. Add video
+8. Add status
