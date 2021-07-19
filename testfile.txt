@@ -8,4 +8,4 @@ Author: Its me
 6. Add audio 
 7. Add video
 8. Add status
-9. Group feature added for 200 people
+9. Group feature added for 300 people
